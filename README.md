@@ -11,8 +11,7 @@ Start Date | End Date
 --- | --- 
 1-12-2022 | 30-12-2022
 
-![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
-
+<br/><br/>
 ## Day 1: 1-12-2022 (Thursday)
 - [X] Solve Day 1 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
@@ -22,3 +21,8 @@ Start Date | End Date
       
 - [X] Write my first write-ups :  
       https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+ 
+
