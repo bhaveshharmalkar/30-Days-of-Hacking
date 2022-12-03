@@ -24,5 +24,13 @@ Start Date | End Date
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
+## Day 2: 2-12-2022 (Friday)
+- [X] Solve Day 2 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] Escalation via Binary Symlinks
+      (Linux Privileged Escalation Course on TCM).
+      
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
  
 
