@@ -33,4 +33,11 @@ Start Date | End Date
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
  
+## Day 3: 3-12-2022 (Saturday)
+- [X] Solve Day 3 on tryHackMe Advent Cyber 2022 : 
+       https://tryhackme.com/room/adventofcyber4
+       
+- [X] Escalation via Enviromental Variables
+       (Linux Privileged Escalation Course on TCM).
 
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
