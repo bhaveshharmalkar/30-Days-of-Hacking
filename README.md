@@ -43,7 +43,7 @@ Start Date | End Date
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
 ## Day 4: 4-12-2022 (Sunday)
-- [X] Solve Day 4 on TryHackMe Advent Cybber 2022 : 
+- [X] Solve Day 4 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 - [X] Escalation via Capabilities
@@ -52,3 +52,16 @@ Start Date | End Date
 - [X] Work on project 
            
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 5: 5-12-2022 (Monday)
+- [X] Solve Dayb 5 on TryHackme Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] Escalation via Scheduled Tasks
+      (Linux Privileged Escalation Course on TCM).
+      
+- [X] Work on project 
+          
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+      
+
