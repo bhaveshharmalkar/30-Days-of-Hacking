@@ -63,5 +63,12 @@ Start Date | End Date
 - [X] Work on project 
           
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 6 : 6-12-2022 (Tuesday)      
+- [X] Solve CmesS machine on tryhackme
+
+- [X] Work on project 
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
       
 
