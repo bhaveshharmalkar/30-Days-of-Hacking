@@ -75,8 +75,8 @@ Start Date | End Date
 - [X] Solve Day 6 & 7 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
-- [X] Write CmesS write-ups 
-      Link : https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
+- [X] Write CmesS write-ups : 
+      https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
       
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
