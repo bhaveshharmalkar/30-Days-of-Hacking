@@ -54,7 +54,7 @@ Start Date | End Date
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
 ## Day 5: 5-12-2022 (Monday)
-- [X] Solve Dayb 5 on TryHackme Advent Cyber 2022 : 
+- [X] Solve Day 5 on TryHackme Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 - [X] Escalation via Scheduled Tasks
@@ -71,4 +71,12 @@ Start Date | End Date
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
       
+## Day 7 : 7-12-2022 (Wednesday)
+- [X] Solve Day 6 & 7 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] Write CmesS write-ups 
+      Link : https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
+      
 
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
