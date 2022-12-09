@@ -72,11 +72,18 @@ Start Date | End Date
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
       
 ## Day 7 : 7-12-2022 (Wednesday)
-- [X] Solve Day 6 & 7 on TryHackMe Advent Cyber 2022 : 
+- [X] Solve Day 6 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 - [X] Write CmesS write-ups : 
       https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
       
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 8 : 8-12-2022 (Thursday)
+- [X] Solve Day 7 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] Read about web3 security and blockchain
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
