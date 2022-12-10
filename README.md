@@ -87,3 +87,11 @@ Start Date | End Date
 - [X] Read about web3 security and blockchain
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 9 : 9-12-2022 (Friday)
+- [X] Solve Day 8 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+
+- [X] Solve ultraTech machine on tryhackme
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
