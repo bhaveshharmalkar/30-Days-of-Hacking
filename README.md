@@ -75,7 +75,7 @@ Start Date | End Date
 - [X] Solve Day 6 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
-- [X] Write CmesS write-ups : 
+- [X] Write CmesS write-up : 
       https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
@@ -95,3 +95,12 @@ Start Date | End Date
 - [X] Solve ultraTech machine on tryhackme
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 10 : 10-12-2022 (Saturday)
+- [X]  Solve Day 9 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+-[X] Write ultraTech wirteup 
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
