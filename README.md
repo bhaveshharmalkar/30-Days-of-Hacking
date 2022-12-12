@@ -19,7 +19,7 @@ Start Date | End Date
 - [X] Escalation via Shared object injection 
       (Linux Privileged Escalation Course on TCM).
       
-- [X] Write my first write-ups :  
+- [X] Write my first write-up :  
       https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
@@ -75,8 +75,8 @@ Start Date | End Date
 - [X] Solve Day 6 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
-- [X] Write CmesS write-up : 
-      https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e
+- [X] [Write CmesS write-up]( https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e)  
+     
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
@@ -100,7 +100,12 @@ Start Date | End Date
 - [X]  Solve Day 9 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
-- [X] Write ultraTech wirteup 
+- [X] [Write ultraTech wirteup](https://infosecwriteups.com/tryhackme-ultratech-ctf-5f4a8e238ed9)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
+## Day 11 : 11-12-2022 (Sunday)
+- [X]  Solve Day 10 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
