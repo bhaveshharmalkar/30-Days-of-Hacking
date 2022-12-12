@@ -100,7 +100,7 @@ Start Date | End Date
 - [X]  Solve Day 9 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
-- [X] [Write ultraTech wirteup](https://infosecwriteups.com/tryhackme-ultratech-ctf-5f4a8e238ed9)
+- [X] [Write ultraTech write-up](https://infosecwriteups.com/tryhackme-ultratech-ctf-5f4a8e238ed9)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
