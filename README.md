@@ -7,7 +7,7 @@ This repository contains all the information shared during my 30--Days-of-Hackin
 
 ### Challenge Timeline
 
-Start Date | [End](https://chat.openai.com/chat) Date
+Start Date | End Date
 --- | --- 
 1-12-2022 | 30-12-2022
 
