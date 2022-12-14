@@ -117,3 +117,11 @@ Start Date | End Date
 - [X] Solve [LazyAdmin](https://tryhackme.com/room/lazyadmin) and [Anonymous](https://tryhackme.com/room/anonymous) machines on TryHackMe
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 13 : 13-12-2022 (Sunday)
+- [X]  Solve Day 12 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] Solve [Tomghost](https://tryhackme.com/room/tomghost) machine on TryHackMe 
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
