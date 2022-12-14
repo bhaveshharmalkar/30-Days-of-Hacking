@@ -2,7 +2,7 @@
 
 ## 30-Days-of-Hacking
 
-This repository contains all the information shared during my 30--Days-of-Hacking Challenge.This challenge stay consistent and challenge myself to learn new things in infosec-world. :computer:
+This repository contains all the information shared during my 30-Days-of-Hacking Challenge.This challenge stay consistent and challenge myself to learn new things in infosec-world. :computer:
 <br/>
 
 ### Challenge Timeline
