@@ -110,7 +110,7 @@ Start Date | End Date
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 12 : 12-12-2022 (Sunday)
+## Day 12 : 12-12-2022 (Monday)
 - [X]  Solve Day 11 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
 
@@ -118,10 +118,18 @@ Start Date | End Date
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 13 : 13-12-2022 (Sunday)
+## Day 13 : 13-12-2022 (Tuesday)
 - [X]  Solve Day 12 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 - [X] Solve [Tomghost](https://tryhackme.com/room/tomghost) machine on TryHackMe 
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 14 : 14-12-2022 (Wednesday)
+- [X]  Solve Day 12 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+- [X] [Write tomghost writeup](https://medium.com/@bhaveshharmalkar/tryhackme-tomghost-ctf-c24a0c806211)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
