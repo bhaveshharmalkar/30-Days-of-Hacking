@@ -6,10 +6,16 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 <br/>
 
 ### Challenge Timeline
-
-Start Date | End Date
---- | --- 
-1-12-2022 | 30-12-2022
+<table>
+<tr>
+<th>Start Date</th>
+<th>End Date</th>
+</tr>
+<tr>
+<td>1-12-2022</td>
+<td>30-12-2022</td>
+</tr>
+</table>
 
 <br/><br/>
 ## Day 1: 1-12-2022 (Thursday)
