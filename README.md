@@ -140,8 +140,14 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 15 : 15-12-2022 (Wednesday)
+## Day 15 : 15-12-2022 (Thursday)
 - [X] Solve Day 14 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+      
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 16 : 16-12-2022 (Friday)
+- [X] Solve Day 15 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
