@@ -151,3 +151,8 @@ This repository contains all the information shared during my 30-Days-of-Hacking
       https://tryhackme.com/room/adventofcyber4
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 17 : 17-12-2022 (Friday)
+- [X] Attending IWCON conference
+      
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
