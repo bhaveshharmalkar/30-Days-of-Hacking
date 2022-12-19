@@ -152,7 +152,12 @@ This repository contains all the information shared during my 30-Days-of-Hacking
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 17 : 17-12-2022 (Friday)
+## Day 17 : 17-12-2022 (Saturday)
 - [X] Attending [IWCON](https://twitter.com/InfoSecComm) conference - Day 1
+      
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 18 : 18-12-2022 (Sunday)
+- [X] Attending [IWCON](https://twitter.com/InfoSecComm) conference - Day 2
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
