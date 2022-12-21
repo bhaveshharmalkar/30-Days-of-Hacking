@@ -170,3 +170,8 @@ This repository contains all the information shared during my 30-Days-of-Hacking
       https://tryhackme.com/room/adventofcyber4
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 20 : 20-12-2022 (Monday)
+- [X] Update [Advent of Cyber 2022]( https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e) Writeup
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
