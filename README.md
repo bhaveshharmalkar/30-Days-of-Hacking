@@ -165,13 +165,19 @@ This repository contains all the information shared during my 30-Days-of-Hacking
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 19 : 19-12-2022 (Sunday)
+## Day 19 : 19-12-2022 (Monday)
 - [X] Solve Day 17 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
       
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
-## Day 20 : 20-12-2022 (Monday)
+## Day 20 : 20-12-2022 (Tuesday)
 - [X] Update [Advent of Cyber 2022]( https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e) Writeup
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 21 : 21-12-2022(Wednesday)
+- [X] Solve Day 18 & Day 19 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
