@@ -181,3 +181,9 @@ This repository contains all the information shared during my 30-Days-of-Hacking
       https://tryhackme.com/room/adventofcyber4
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 22 : 22-12-2022(Thursday)
+- [X] Solve Day 20 on TryHackMe Advent Cyber 2022 : 
+      https://tryhackme.com/room/adventofcyber4
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
