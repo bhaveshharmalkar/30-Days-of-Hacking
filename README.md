@@ -203,5 +203,9 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 ## Day 25 : 25-12-2022(Sunday)
 - [X] Solve Day 23 & Day 24 on TryHackMe Advent Cyber 2022 : 
       https://tryhackme.com/room/adventofcyber4
+      
+- [X] The Advent of Cyber 2022 has passed, and I have earned this [certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6STH4JIY8K.png)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+
