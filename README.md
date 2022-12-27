@@ -208,4 +208,7 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
+## Day 26 : 26-12-2022(Monday)
+- [X] Read article on [Content Discovery](https://medium.com/@nynan/bug-bounty-recon-content-discovery-efficiency-pays-2ec2462532b1)
 
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
