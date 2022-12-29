@@ -221,5 +221,7 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 ## Day 28 : 28-12-2022(Wednesday)
 - [X] Read article on [Power of Recon](https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers1c697aa7e8770)
 
+- [X] Read article on [How recon help me to bypass the login panel](https://medium.com/@ratnadip1998/how-recon-helped-me-to-bypass-the-admin-panel-102d6954ca2)
+
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
