@@ -219,7 +219,7 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
 ## Day 28 : 28-12-2022(Wednesday)
-- [X] Read article on [Recon](https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers1c697aa7e8770)
+- [X] Read article on [Power of Recon](https://medium.com/@mrd17x/power-of-recon-hacker-accessed-bugbounty-programs-triaged-reports-submitted-by-other-researchers1c697aa7e8770)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
