@@ -229,3 +229,8 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 - [X] Read article on [Idor PII Leakage](https://sheshasai.medium.com/idor-pii-leakage-3ad0a4ef4638)
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
+## Day 30 : 30-12-2022(Friday)
+- [X] Explore Pentester lab & Complete [Introduction Badge](https://pentesterlab.com/badges/introduction)
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
