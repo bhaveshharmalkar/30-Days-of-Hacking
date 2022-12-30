@@ -225,3 +225,7 @@ This repository contains all the information shared during my 30-Days-of-Hacking
 
 ![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
 
+## Day 29 : 29-12-2022(Thursday)
+- [X] Read article on [Idor PII Leakage](https://sheshasai.medium.com/idor-pii-leakage-3ad0a4ef4638)
+
+![Line](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
